@@ -21,6 +21,7 @@ Organize and standardize the **existing** documentation of each tool developed i
 
 **Aim 2:** 
 Create a documentation checklist for any **future** proposal or project workplan as a start-up guide for the digital health team. 
+
 - The Project Team has a start-up checklist, but this resource is missing from the Digital Health team. 
 
 ## Key considerations going forward
