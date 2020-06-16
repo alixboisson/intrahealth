@@ -1,0 +1,127 @@
+---
+title: "Documentation Guidance"
+author: developed by Alix Boisson
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This document provides guidance for a proposed sharepoint. 
+Caitlyn has carefully and critically provided the 'what' that is missing from the resources provided at the onset of a proposal or workplan development as well as the documentation that exists. I now propose the following for the 'how', taking the work that Caitlyn has completed and institutionalizing it. This resource will increase capacity across project teams, will standardize the documentation both held from past projects and developed for future projects by IntraHealth and will act as guidance for proposal or workplan development. 
+
+## Two aims of this resource: 
+**Aim 1:** 
+Organize and standardize the **existing** documentation of each tool developed in the Digital Health team. 
+- Identify gaps in the current iterations of the tool and provide guidance for completing any missing work 
+- Ensure that documentation is not 'dumped' into a folder by the project team, which makes navigating existing documentation difficult for the project team and any implementer/developers who may need to access the files.
+- This aim incorporates the work done by Caitlyn. The sharepoint will store the matrix developed listing each of the tools and which documentation exists. 
+
+**Aim 2:** 
+Create a documentation checklist for any **future** proposal or project workplan as a start-up guide for the digital health team. 
+- The Project Team has a start-up checklist, but this resource is missing from the Digital Health team. 
+
+## Key considerations going forward
+
+- Cental location for this information to be stored 
+  - I suggest a sharepoint html location. Caitlyn has taken the time to develop both a guidance document and a matrix with various spreadsheets for each of the tools developed by the Digital Health Team. Now, we can use a central location to streamline the use of this resource and store all of this information and future tool documentation. 
+  
+- Frontpage sections: 
+  - Overview of resource
+  - Documentation strategy for Digital Health products (guidance developed by Caitlyn for **Ministry of Health**, **Implementers**, and **Developers**)
+  - Workplan example:
+    - At the onset of any new project, this workplan example or guidance should act as a *checklist* when developing a new tool. Summary of what documentation is **required** in each folder (top five documentation required by Intrahealth), what documentation is **recommended** for a tool (*see below required versus recommended workflow*)
+    - Organized in an *example template* folder structure to provide a start-up guide
+  - Matrix of existing tools and documentation 
+    - Includes columns listing existing tools
+    - Includes rows listing each documentation (*see workflow themes vs sub themes*) 
+      - A description of the documentation under each entry
+      - A link to the documentation 
+    - Q: Can the matrix be auto-filled when a new item is added to a folder in the sharepoint?
+  - Folders for each of the existing tools in a standardized folder format (*see folder format worflow*)
+    
+## Workflows 
+
+### Aim 1: 
+
+#### 1. Required versus recommended documentation: 
+
+- We need to decide which *top 5* documentation are required for each new or existing tool 
+- I suggest that perhaps we then decide on *recommended* documentation based on (type of tool/ donor requirement?) criteria 
+- Priority (high vs. low) can be illustrated on the matrix with color (green / yellow?)
+
+#### 2. Matrix and folder themes (overarching topics) and sub-themes: 
+
+- The matrix provided by Caitlyn lists various documentations and suggests the audience. However, there are a few ambiguous items such as technical videos, FAQ, etc. that can exist under multiple 'themes.' Two potential theme structures for organizing the matrix and folders are as follows: 
+- EG 1: 
+  - Start Up: 
+    - Quick start guide
+    - Installation Instructions 
+    - Code 
+    - Demo
+    - FAQ
+    - Technical Videos 
+  - Use: 
+    - Implementer guide / kit 
+    - User guide / manual 
+    - Code 
+    - Demo 
+    - FAQ 
+    - eLearning ?
+    - Technical Videos 
+  - Support 
+    - Support community 
+    - Bug reporting 
+    - Announcements 
+- EG 2:
+  - Themes categorized by user?
+  
+- Further, each of the documentations in the matrix should be either blue (complete) or yellow (working document)
+  - If the documentation is yellow in the matrix, the documentation description should include what is pending for completion 
+
+#### 3. Further ambiguity of titles:
+
+| Standardized title required | Audience | Description |
+| --------- |------  | ------------------|
+| Code Base vs Developer Guide | Developer | source code repository vs not a description guide, source code installation  (may include link to code base) | 
+| Implementer guide vs user guide | implementer / MoH | user guide - currently ambiguous in the existing documentation | 
+| Training materials/ technical videos | Implementer / Developers / MoH | technical videos, which topic or theme was required, and whether they are needed | 
+| Technical documentation | MoH, Implementer, Developers | option 1: Documentation which can fit anything and is used by all users, see Client Registry option 2: Client Registry documentation is an exception, but going forward there should be separate documentation based on user | 
+| Installation guide vs start up guide | Implementer/ Developers / MoH | How to differentiate between the two? |
+
+#### 4. Saving past iterations: 
+
+- Should the sharepoint only house the most recent iterations and the past iterations be moved to google docs (where the documentation is currently stored) or 
+- Should we include folders within each team folder to house the past iterations?
+
+### Aim 2: 
+
+#### 5. Structure of example template: 
+
+- To match the matrix decision of themes / sub-themes. 
+
+#### 6. Documentation examples: 
+
+- Two options exist for examples, 
+  - Either we pull ideal docuentation already developed for one of the tools for each of the 'documentation sub-themes' or 
+  - We provide guidance for what each of the documentations should include. 
+
+  Option one is the path of least resistance. 
+  
+## Existing Documents 
+
+- Documentation Inventory Matrix 
+  - Creator: Caitlyn 
+  - <https://docs.google.com/spreadsheets/d/1n8MAgW9Qy8gYvjz77FcDYwvXzrAA6NYD7IzsiZBCP2A/edit#gid=1283099600>
+
+- Documentation Strategy
+  - Creator: Caitlyn 
+  - <https://docs.google.com/document/d/1yJb9wo3OPx02pwixjujLppCnERgX5m8TGnO9Pb3ozkU/edit> 
+
+- Documentation Updates (GOFR, Client Registry, Facility Registy)
+  - Creator: Alix 
+  - <https://docs.google.com/spreadsheets/d/1u9onZboU7isiTenerxv5pQvjofRtgxKYu0IcqpKEFvE/edit?usp=sharing>
+
+
+
