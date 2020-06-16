@@ -14,6 +14,7 @@ Caitlyn has carefully and critically provided the 'what' that is missing from th
 ## Two aims of this resource: 
 **Aim 1:** 
 Organize and standardize the **existing** documentation of each tool developed in the Digital Health team. 
+
 - Identify gaps in the current iterations of the tool and provide guidance for completing any missing work 
 - Ensure that documentation is not 'dumped' into a folder by the project team, which makes navigating existing documentation difficult for the project team and any implementer/developers who may need to access the files.
 - This aim incorporates the work done by Caitlyn. The sharepoint will store the matrix developed listing each of the tools and which documentation exists. 
